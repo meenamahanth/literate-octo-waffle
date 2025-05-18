@@ -4,6 +4,12 @@ You can access the deployed version of this project from the following platforms
 
 ---
 
+## 🔥 Firebase  
+**URL:** [https://solid-winner.web.app](https://solid-winner.web.app)  
+**Project Console:** [https://console.firebase.google.com/project/solid-winner/overview](https://console.firebase.google.com/project/solid-winner/overview)
+
+---
+
 ## 🚀 GitHub Pages  
 **URL:** [https://meenamahanth.github.io/solid-winner/](https://meenamahanth.github.io/solid-winner/)  
 **Repository:** [https://github.com/meenamahanth/solid-winner](https://github.com/meenamahanth/solid-winner)
